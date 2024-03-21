@@ -24,7 +24,7 @@
   "author": "Valeri Karpov <val@karpov.io>",
   "license": "MIT",
   "peerDependencies": {
-    "mongoose": "^5.7.9 || 6.x"
+    "mongoose": "8.x"
   },
   "devDependencies": {
     "acquit": "1.x",
